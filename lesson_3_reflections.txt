@@ -8,3 +8,12 @@ Q:Describe the differences between forks, clones, and branches. When would you u
 A:forks: GitHub, copy from other's work
 clone: copy from online to local. OR: local to local
 branch: keep some specific changes along one branch.
+
+Q:What is the benefit of having a copy of the last known state of the remote stored locally?
+A: make sure we know where we are. Don’t do repeat work.
+
+Q:How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+A:we will manually give a version number to control the version. and two people work on different part to make sure we don’t change somewhere at the same time. Obviously, the Git and GitHub is better choice.
+
+Q:When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+A: when we are collorbating with other people, even we don;t known them. It will make sure everything goes well. Directly in master will make it easy for only one people involved in this work.
