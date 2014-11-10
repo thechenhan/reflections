@@ -1,2 +1,10 @@
-When would you want to use a remote repository rather than keeping all your work local?
-release new function to public. backup files. 
+Q:When would you want to use a remote repository rather than keeping all your work local?
+A:release new function to public. backup files. 
+
+Q:Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+A: it may mass my work up. 
+
+Q:Describe the differences between forks, clones, and branches. When would you use one instead of another?
+A:forks: GitHub, copy from other's work
+clone: copy from online to local. OR: local to local
+branch: keep some specific changes along one branch.
